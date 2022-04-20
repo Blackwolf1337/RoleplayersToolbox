@@ -1,14 +1,9 @@
 {
-  "Author": "akira0245, semi-continued by Blackwolf",
-  "Name": "MidiBard (API 6)",
+  "Author": "ascclemens, semi-continued by Blackwolf",
+  "Name": "The Roleplayer's Toolbox (API 6)",
   "Punchline": "Bard performance using midi files or keyboard.",
-  "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
-  "RepoUrl": "https://github.com/Blackwolf1337/MidiBard",
-  "Tags": [
-    "akira",
-    "perform",
-    "instrument"
-  ],
-  "DalamudApiLevel": 6,
-  "IconUrl": "https://i.loli.net/2021/09/09/L1fkrwElUKYMtN3.png"
+  "Description": "A collection of useful tools for roleplayers.\n\nChoose a PF or use the /route command to set a destination and get told the fastest way to navigate to any house.\nEnable click-to-examine on left or right click.\nPrevent untargeting or changing your target.\nSet any emote on your hotbar, such as sleep or object sit.\nAdd the /emoteid command to use any emote by its ID.\nDisable the /doze emote snap so you can use the sleep emote anywhere.",
+  "RepoUrl": "https://github.com/Blackwolf1337/RoleplayersToolbox",
+  "Tags": [],
+  "DalamudApiLevel": 6
 }
