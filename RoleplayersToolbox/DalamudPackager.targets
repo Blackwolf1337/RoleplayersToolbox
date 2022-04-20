@@ -6,6 +6,7 @@
                          OutputPath="$(OutputPath)"
                          AssemblyName="$(AssemblyName)"
                          VersionComponents="3"
-                         MakeZip="true" />
+                         MakeZip="true"
+                         Exclude="RoleplayersToolbox.pdb" />
     </Target>
 </Project>
