@@ -1,0 +1,14 @@
+{
+  "Author": "akira0245, semi-continued by Blackwolf",
+  "Name": "MidiBard (API 6)",
+  "Punchline": "Bard performance using midi files or keyboard.",
+  "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
+  "RepoUrl": "https://github.com/Blackwolf1337/MidiBard",
+  "Tags": [
+    "akira",
+    "perform",
+    "instrument"
+  ],
+  "DalamudApiLevel": 6,
+  "IconUrl": "https://i.loli.net/2021/09/09/L1fkrwElUKYMtN3.png"
+}

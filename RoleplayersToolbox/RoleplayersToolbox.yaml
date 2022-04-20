@@ -1,5 +1,5 @@
 name: The Roleplayer's Toolbox
-author: ascclemens
+author: ascclemens, semi-continued by Blackwolf
 description: |-
   A collection of useful tools for roleplayers.
 
@@ -11,4 +11,4 @@ description: |-
   - Add the /emoteid command to use any emote by its ID.
   - Disable the /doze emote snap so you can use the sleep emote
     anywhere.
-repo_url: https://git.annaclemens.io/ascclemens/RoleplayersToolbox
+repo_url: https://github.com/Blackwolf1337/RoleplayersToolbox
